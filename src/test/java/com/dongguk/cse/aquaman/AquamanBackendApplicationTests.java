@@ -1,4 +1,4 @@
-package com.example.aquamanbackend;
+package com.dongguk.cse.aquaman;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
